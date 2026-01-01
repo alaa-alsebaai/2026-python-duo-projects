@@ -46,4 +46,3 @@ See the full terms in the [LICENSE](LICENSE) file in this repository.
 --
 
 *This README will be updated as our journey progresses.*
-```
