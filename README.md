@@ -10,20 +10,6 @@ Our primary goals for this collaborative series are:
 2.  **Master Professional Workflow:** Implement and internalize industry-standard practices using Git, collaborative GitHub workflows (feature branching, pull requests, and code reviews), and clear documentation.
 3.  **Create a Comprehensive Portfolio:** Develop a tangible, growing body of work that demonstrates our technical skills, consistent growth, and ability to collaborate effectively on complex projects over time.
 
-## 📁 Project Structure & Schedule
-The repository is organized chronologically to document our weekly progress and learning journey:
-
-```
-
-
-/[month]-[project-theme]/
-└── /week-[num]-[project-name]/
-├── main.py
-├── README.md
-└── (other project files)
-
-
-```
 We follow a structured plan to build and document **one complete project per week** throughout 2026.
 
 ## 🛠️ Technology & Practices
