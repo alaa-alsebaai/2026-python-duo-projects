@@ -45,7 +45,7 @@ def add_expenses(name, quantity, price):
 def update_quantities(name, change, price):
     expenses = load_expenses()
     expenses[name]['quantity'] += change
-    expenses[name]['total'] += price * expenses[name]['quantity']
+    expenses[name]['total'] = price * expenses[name]['quantity']
     print(f"{change} {name}/s have been added!\n")
     save_expenses(expenses)
 
